@@ -1,7 +1,4 @@
 # Lista licențe indicator trading
 # Format: MACHINE_ID=AAAA-LL-ZZ
 
-# EXEMPLU - înlocuiește cu ID-urile reale ale clienților
-A1B2C3D4E5F6G7H8=2024-12-31
-B2C3D4E5F6G7H8I9=2024-06-30
-TEST123456789012=2024-03-15
+TEST123456789012=2024-12-31
